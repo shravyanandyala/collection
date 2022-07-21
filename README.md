@@ -1,13 +1,3 @@
-# gojini-template
+# :paperclips: collection [![test](https://github.com/gojini/collection/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/gojini/collection/actions/workflows/test.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/gojini/collection)](https://goreportcard.com/report/github.com/gojini/collection) [![codecov](https://codecov.io/gh/gojini/collection/branch/main/graph/badge.svg?token=94ZZ46W6VA)](https://codecov.io/gh/gojini/collection) [![Maintainability](https://api.codeclimate.com/v1/badges/eb4a80c9a54fce474e28/maintainability)](https://codeclimate.com/github/gojini/collection/maintainability) [![Apache 2 licensed](https://img.shields.io/badge/license-Apache2-blue.svg)](https://raw.githubusercontent.com/gojini/collection/main/LICENSE)
 
-Template repository for all the gojini repositories.
-
-This template provides the following workflows:
-
-* test - runs tests with coverage
-* lint - runs golangci-lint
-* dco - performs dco check
-
-A template makefile is provided in the repository. Each repo that is built
-using this template can customize the Makefile and the workflows to suit their
-needs.
+This package contains basic data structures that group together objects.
